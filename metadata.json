@@ -1,0 +1,6 @@
+{
+  "name": "Android Checkbox Demo",
+  "description": "A demo app replicating an Android interface with checkboxes and Toast notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
